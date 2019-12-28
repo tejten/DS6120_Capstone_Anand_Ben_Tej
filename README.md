@@ -1,4 +1,4 @@
-# MSDS 6120: Capstone A
+# MSDS 6120, 6130: Capstone A and B
 
 # Authors: Anand Rajan, Benjamin Wilke, and Tej Tenmattam
 
